@@ -1,0 +1,12 @@
+{
+  "name": "angularjs-project",
+  "version": "1.0.0",
+  "description": "Patients log",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haiku",
+  "license": "ISC"
+}
